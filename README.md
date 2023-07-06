@@ -1,1 +1,1 @@
-# resturant-erd
+# restaurant-erd
