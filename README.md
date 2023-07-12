@@ -1,1 +1,1 @@
-**Restaurant RED**
+**Restaurant ERD**
